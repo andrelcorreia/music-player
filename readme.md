@@ -16,4 +16,4 @@ Notes:
 
 - Expo router: A way to set up our enough navigation using a file system based router without installing any thirdparty library such as react navigation.
 
-First
+I'm using node 20v
